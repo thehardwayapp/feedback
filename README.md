@@ -32,7 +32,7 @@ Do you have an idea to make The Hard Way App better?
 
 ---
 
-## Ask a Question ✨
+## Ask a Question ❓
 
 Do you have an idea to make The Hard Way App better?
 1. **Search Existing Issues**: Someone else might have already asked it.
