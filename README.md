@@ -5,6 +5,8 @@ Thank you for helping to improve **The Hard Way App**! This repository is dedica
 - ✨ **Feature Requests**
 - ❓ **Questions**
 
+You can ask questions and submit bugs and feature requests with a (free) GitHub account.
+
 ---
 
 ## Report a Bug 🐛
