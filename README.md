@@ -17,8 +17,6 @@ If you've found a bug, follow these steps:
    - Provide clear steps to reproduce the bug.
    - Include operative system, operative system version, and app version if applicable.
    - Include screenshots, logs, or error messages if applicable.
-   - Assign it the `bug` label.
-   - If the bug is an error in the tutorial, assign the `documentation` label too.
 
 ---
 
@@ -29,8 +27,6 @@ Do you have an idea to make The Hard Way App better?
 2. **Submit a [New Issue](https://github.com/thehardwayapp/feedback/issues/new)**
    - Describe your idea in detail.
    - Explain why it’s valuable.
-   - Assign it the `enhancement` label.
-   - If the request is related to the tutorial, assign the `documentation` label too.
 
 ---
 
@@ -41,7 +37,6 @@ Do you have an idea to make The Hard Way App better?
 2. **Check that it has not been answered in the official tutorial**: https://thehardway.app/tutorial
 3. **Submit a [New Issue](https://github.com/thehardwayapp/feedback/issues/new)**
    - Ask your question, including your use case if applicable.
-   - Assign the `question` label.
 
 ---
 
